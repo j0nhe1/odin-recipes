@@ -1,0 +1,1 @@
+It was nice seeing something I created though, admittedly, the recipes were just copied from other websites. I was able to practice creating different html pages using the terminal and practice using various tags: img, a, ol, ul, and br.
